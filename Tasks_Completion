@@ -4,6 +4,7 @@ Create Compile and Execute Erlang program     -completed
 Establish GPIO library for Erlang programing
   Candidates:
     https://github.com/paoloo/gpio
+    https://hexdocs.pm/gpio_rpi/GpioRpi.html    Elixir
 
 Design Actor to read from Pi GPIO
 Spawn Actor to look for signals when a signal is received on GPIO
