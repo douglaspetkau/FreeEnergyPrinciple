@@ -1,0 +1,10 @@
+Tasks:
+Install Erlang on Raspberry Pi 4   -completed
+Create Compile and Execute Erlang program     -completed
+Design Agent to read from Pi GPIO
+Spawn Actor to look for signals when a signal is received on GPIO
+Erlang code to read all GPIO signals
+Resurrect ML32 Robot board
+Ardiuno OTA Erlang program to Robot and execute
+Run statistical function on received GPIO functions
+Execute code based on GPIO states
