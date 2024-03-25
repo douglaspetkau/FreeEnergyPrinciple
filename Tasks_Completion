@@ -1,7 +1,8 @@
 Tasks:
 Install Erlang on Raspberry Pi 4   -completed
 Create Compile and Execute Erlang program     -completed
-Design Agent to read from Pi GPIO
+Establish GPIO library for Erlang programing
+Design Actor to read from Pi GPIO
 Spawn Actor to look for signals when a signal is received on GPIO
 Erlang code to read all GPIO signals
 Resurrect ML ESP32 Robot board
